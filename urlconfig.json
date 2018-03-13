@@ -1,0 +1,17 @@
+{
+    "cdn": "http://47.93.118.30/version/sword20171226/assets",
+    "lately_srever": "http://47.93.118.30/version/lastlogin.php",
+    "app_url": "itms-apps://itunes.apple.com/cn/app/id1227174195?mt=8",
+    "servers": [
+        {
+            "ip": "169.254.1.200",
+            "port": 15289,
+            "server_id": 1,
+            "show_id": "01",
+            "name": "范小峰",
+            "desc": "内网测试",
+            "state_text": "",
+            "sort": 1
+        }
+    ]
+}
